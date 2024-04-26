@@ -9,4 +9,6 @@ Integrantes del grupo:
 - Jostin Maruri
 - Marc Rubio
 
+Imagen de la estructura que vamos a crear
+
 ![alt text](image.png)
