@@ -36,4 +36,4 @@ sudo apt update && sudo apt-get install terraform -y
 
 |--> Clonar repositorio <--|
 
-| git clone https://github.com/martipinell10/pildora5.git && cd pildora5/s3-bucket-state
+git clone https://github.com/martipinell10/pildora5.git && cd pildora5/s3-bucket-state
