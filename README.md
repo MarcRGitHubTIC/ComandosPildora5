@@ -8,3 +8,5 @@ Integrantes del grupo:
 - Ferran Garcia (Jefe de equipo II)
 - Jostin Maruri
 - Marc Rubio
+
+![alt text](image.png)
